@@ -1,0 +1,46 @@
+[
+  {
+    "brand": "HiveMapper Dashcam",
+    "slug": "hivemapper-dashcam",
+    "upfrontCost": 349,
+    "rewardToken": "HONEY",
+    "dailyRewardMin": 1.5,
+    "dailyRewardMax": 4.0,
+    "payoutApiUrl": "https://api.hivemapper.com/payout",
+    "powerSource": "12V vehicle power",
+    "installTime": 15
+  },
+  {
+    "brand": "Motus Mini OBD",
+    "slug": "motus-mini-obd",
+    "upfrontCost": 199,
+    "rewardToken": "MOTUS",
+    "dailyRewardMin": 0.5,
+    "dailyRewardMax": 2.0,
+    "payoutApiUrl": "https://api.motus.network/rewards",
+    "powerSource": "OBD-II port",
+    "installTime": 5
+  },
+  {
+    "brand": "DIMO Data Miner",
+    "slug": "dimo-data-miner",
+    "upfrontCost": 249,
+    "rewardToken": "DIMO",
+    "dailyRewardMin": 0.8,
+    "dailyRewardMax": 3.0,
+    "payoutApiUrl": "https://api.dimo.zone/rewards",
+    "powerSource": "OBD-II or 12V",
+    "installTime": 10
+  },
+  {
+    "brand": "WeatherXM Station",
+    "slug": "weatherxm-station",
+    "upfrontCost": 299,
+    "rewardToken": "WXM",
+    "dailyRewardMin": 0.3,
+    "dailyRewardMax": 1.5,
+    "payoutApiUrl": "https://api.weatherxm.com/rewards",
+    "powerSource": "12V or solar",
+    "installTime": 20
+  }
+]
